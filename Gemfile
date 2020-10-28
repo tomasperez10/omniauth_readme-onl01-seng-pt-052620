@@ -16,6 +16,8 @@ gem 'omniauth'
 
 gem 'omniauth-facebook'
 
+gem 'dotenv-rails'
+
 gem 'thin'
 
 # Use jquery as the JavaScript library
